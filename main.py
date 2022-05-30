@@ -2,4 +2,4 @@
 
 
 class HerokuApp:
-    app_url = ""  # Fill your heroku app url here
+    app_url = "https://fierce-spire-87558.herokuapp.com/"  # Fill your heroku app url here
